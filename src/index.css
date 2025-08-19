@@ -1,0 +1,8 @@
+/* Import base styles (common across all themes) */
+@import './themes/base.css';
+
+/* Import theme-specific colors */
+/* @import './themes/teal-theme.css'; */
+@import './themes/gold-theme.css';
+/* @import './themes/orange-beige-theme.css'; */
+/* @import './themes/gray-theme.css'; */
